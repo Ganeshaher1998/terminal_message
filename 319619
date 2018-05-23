@@ -1,0 +1,24 @@
+#!/bin/bash
+#########COLORS########
+RED='\033[01;31m'
+GREEN='\033[01;32m'
+YELLOW='\033[01;33m'
+PURPLE='\033[01;35m'
+CYAN='\033[01;36m'
+clear
+echo -e ${YELLOW}"############################################################################"
+echo -e ${CYAN}"                          <<<Enter message you want to send>>>"
+echo -e ${YELLOW}"############################################################################"
+echo -e ${PURPLE}"                                                     -shubh kotwal"
+echo -e ${RED}
+read -p "shubh>" a
+echo -e ${RED} > /dev/pts/0
+echo "                $a" > /dev/pts/0
+echo > /dev/pts/0
+echo > /dev/pts/0
+echo > /dev/pts/0
+echo > /dev/pts/0
+echo -e ${YELLOW}
+read -p "Press Enter to continue..."
+shubh1
+
